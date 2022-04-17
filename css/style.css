@@ -1,14 +1,4 @@
-/* Site Stylesheet
-  1. Global Styles
-  2. Typography Styles
-  3. Structure Styles
-  4. Module Styles
-  5. Component Styles
-  6. Page Styles
-======================================== */
-
-/* 1. Global Styles
-======================================== */
+/* 1. Global Styles */
 * {
   box-sizing: border-box;
 }
@@ -34,8 +24,7 @@ body {
   display: table;
 }
 
-/* 2. Typography Styles
-======================================== */
+/* 2. Typography Styles */
 h1,
 h2,
 h3,
@@ -98,8 +87,7 @@ img {
   width: 100%;
 }
 
-/* 3. Structure Styles
-======================================== */
+/* 3. Structure Styles */
 .container {
   margin: 0 auto;
   max-width: 1280px;
@@ -110,8 +98,7 @@ img {
   display: table;
   clear: both;
 }
-/* 4. Modules Styles
-======================================== */
+/* 4. Modules Styles */
 
 /* Site Navigation */
 .site-navigation {
@@ -154,8 +141,7 @@ img {
   max-width: 1280px;
 }
 
-/* 5. Component Styles
-======================================== */
+/* 5. Component Styles */
 button {
   border: none;
 }
@@ -201,8 +187,7 @@ textarea {
   width: 100%;
 }
 
-/* 6. Page Styles
-======================================== */
+/* 6. Page Styles */
 .photo-hero {
   background-color: #2486AD;
   min-height: 700px;
